@@ -1,3 +1,5 @@
+<<<<<<<<< Head:index
+#!/bin/bash echo "The school is open"
 
-#!/bin/bash  echo "The school is so cool!"
-
+=========
+#!/bin/bash echo "Best School"
